@@ -1,1 +1,0 @@
-# src.main.java.com.illumio.assessment.LogParser-Illumio
